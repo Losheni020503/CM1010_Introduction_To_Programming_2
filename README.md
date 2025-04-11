@@ -1,4 +1,4 @@
-📊 Data Visualization App – Python Project
+# 📊 Data Visualization App – Python Project
 
 A modular and beginner-friendly **Python data visualization application** built using core programming principles like **recursion**, **file handling**, and **functional decomposition**. This project focuses on transforming raw data into meaningful insights using visual graphs and error-resilient code.
 
